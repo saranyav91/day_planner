@@ -27,7 +27,7 @@ YWe use the [Moment.js](https://momentjs.com/) library to work with date and tim
 
 Installation:
 
-This webpage is available as my github page whose link is https://saranyav91.github.io//day_planner
+This webpage is available as my github page whose link is https://saranyav91.github.io/day_planner/
 
 Usage:
 
